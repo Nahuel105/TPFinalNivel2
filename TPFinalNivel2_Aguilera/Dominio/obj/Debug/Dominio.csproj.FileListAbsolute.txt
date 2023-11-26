@@ -1,0 +1,6 @@
+E:\proyectos c#\TPFinalNivel2_Aguilera\Dominio\bin\Debug\Dominio.dll
+E:\proyectos c#\TPFinalNivel2_Aguilera\Dominio\bin\Debug\Dominio.pdb
+E:\proyectos c#\TPFinalNivel2_Aguilera\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+E:\proyectos c#\TPFinalNivel2_Aguilera\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+E:\proyectos c#\TPFinalNivel2_Aguilera\Dominio\obj\Debug\Dominio.dll
+E:\proyectos c#\TPFinalNivel2_Aguilera\Dominio\obj\Debug\Dominio.pdb

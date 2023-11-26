@@ -1,0 +1,9 @@
+E:\proyectos c#\TPFinalNivel2_Aguilera\Negocio\bin\Debug\Negocio.dll
+E:\proyectos c#\TPFinalNivel2_Aguilera\Negocio\bin\Debug\Negocio.pdb
+E:\proyectos c#\TPFinalNivel2_Aguilera\Negocio\bin\Debug\Dominio.dll
+E:\proyectos c#\TPFinalNivel2_Aguilera\Negocio\bin\Debug\Dominio.pdb
+E:\proyectos c#\TPFinalNivel2_Aguilera\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\proyectos c#\TPFinalNivel2_Aguilera\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\proyectos c#\TPFinalNivel2_Aguilera\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\proyectos c#\TPFinalNivel2_Aguilera\Negocio\obj\Debug\Negocio.dll
+E:\proyectos c#\TPFinalNivel2_Aguilera\Negocio\obj\Debug\Negocio.pdb
